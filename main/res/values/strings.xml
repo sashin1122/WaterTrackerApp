@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">WaterLog</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="Diary_Entry_Button">Add Diary Entry +</string>
+    <string name="water_log">Water Log:</string>
+    <string name="date">Date</string>
+    <string name="water_consumption">Water Consumption</string>
+    <string name="diary_page">DiaryPage</string>
+    <string name="button">Button</string>
+    <string name="_0">0</string>
+    <string name="enter_shower_amount">Enter Shower amount :</string>
+    <string name="enter_toilet_amount">Enter Toilet amount :</string>
+    <string name="enter_drinking_amount">Enter Drinking amount :</string>
+    <string name="enter_hygiene_amount">Enter Hygiene amount :</string>
+    <string name="enter_laundry_amount">Enter Laundry amount :</string>
+    <string name="enter_dishes_amount">Enter Dishes amount :</string>
+    <string name="enter_cooking_amount">Enter Cooking amount :</string>
+    <string name="enter_cleaning_amount">Enter Cleaning amount :</string>
+    <string name="other">Other :</string>
+    <string name="water_total">Water Total :</string>
+    <string name="clear">CLEAR</string>
+    <string name="cancel">CANCEL</string>
+    <string name="save">SAVE</string>
+    <string name="add_diary_entry">ADD DIARY ENTRY +</string>
+    <string name="view_diary">VIEW DIARY</string>
+    <string name="total_water_used">TOTAL WATER USED :</string>
+    <string name="daily_water_usage">DAILY WATER USAGE :</string>
+    <string name="previous">PREVIOUS</string>
+    <string name="home">HOME</string>
+    <string name="next">NEXT</string>
+    <string name="diary_entry">DIARY ENTRY +</string>
+</resources>
